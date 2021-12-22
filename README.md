@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.  It is the introductory stocks project from Angular in Action chapter 2 with a few minor changes to allow it to compile for Angular 12.2.15. 
 
+The original is located here: https://github.com/angular-in-action/stocks
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
